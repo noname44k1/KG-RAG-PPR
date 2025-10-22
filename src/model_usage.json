@@ -1,0 +1,13 @@
+{
+    "time": "2025-06-21 14:36:28",
+    "total_requests": 1,
+    "successful_requests": 1,
+    "total_tokens_used": 9732,
+    "requests": [
+        {
+            "prompt_tokens": 8842,
+            "completion_tokens": 890,
+            "total_tokens": 9732
+        }
+    ]
+}

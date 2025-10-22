@@ -1,0 +1,6 @@
+### Python ###
+__pycache__/
+.vscode
+.DS_Store
+src/project/models--dangvantuan--vietnamese-embedding/
+src/project/.locks/

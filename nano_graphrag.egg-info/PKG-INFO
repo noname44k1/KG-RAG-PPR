@@ -1,0 +1,39 @@
+Metadata-Version: 2.4
+Name: nano-graphrag
+Version: 0.0.8.2
+Summary: A simple, easy-to-hack GraphRAG implementation
+Home-page: https://github.com/gusye1234/nano-graphrag
+Author: JianbaiYe
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+License-File: LICENSE
+Requires-Dist: future>=1.0.0
+Requires-Dist: openai
+Requires-Dist: tiktoken
+Requires-Dist: networkx
+Requires-Dist: graspologic
+Requires-Dist: nano-vectordb
+Requires-Dist: hnswlib
+Requires-Dist: xxhash
+Requires-Dist: tenacity
+Requires-Dist: dspy-ai
+Requires-Dist: neo4j
+Requires-Dist: aioboto3
+Requires-Dist: google-genai
+Requires-Dist: gradio
+Requires-Dist: ipykernel
+Requires-Dist: milvus-lite
+Requires-Dist: pymilvus
+Requires-Dist: ollama
+Requires-Dist: python-dotenv
+Requires-Dist: transformers
+Requires-Dist: sentence-transformers
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
